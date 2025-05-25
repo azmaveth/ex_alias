@@ -39,7 +39,7 @@ defmodule ExAlias.MixProject do
   defp description do
     """
     A flexible command alias system for Elixir applications.
-    Supports recursive expansion, parameter substitution, and circular reference detection.
+    Supports recursive expansion, argument appending, and circular reference detection.
     """
   end
 
